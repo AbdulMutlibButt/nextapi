@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Mobile",
+        "description": "Dummy Data",
+        "id": 1,
+        "price": "100 USD"
+    },
+    {
+        "title": "Mobile",
+        "description": "Dummy Data",
+        "id": 2,
+        "price": "1000 USD"
+    },
+    {
+        "id": 3,
+        "title": "TAB",
+        "description": "Dummy Data",
+        "price": "11100 USD"
+    },
+    {
+        "id": 4,
+        "title": "TAB",
+        "description": "Dummy Data",
+        "price": "11100 USD"
+    },
+    {
+        "id": 5,
+        "title": "TAB",
+        "description": "Dummy Data",
+        "price": "11100 USD"
+    },
+    {
+        "id": 6,
+        "title": "TAB",
+        "description": "Dummy Data",
+        "price": "11100 USD"
+    }
+]
